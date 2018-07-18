@@ -11,7 +11,7 @@ public class HelloJava { // This is class name! Class must begin first character
     /**
      * This method main method and running code writing in bussines logic.
      *
-     * <br/>
+     * <br>
      * @param args Main class arguments for initialization class with argument values
      */
     public static void main(String[] args) {// Main method running automatic
