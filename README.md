@@ -1,7 +1,8 @@
 # Java 8 training and coding
 
 ```
-Very fast learning Java 8 by examples and coding. This tutorial for students and beginner java programmers who are want learning Java language.
+Very fast learning Java 8 by examples and coding. 
+This tutorial for students and beginner java programmers who are want learning Java language.
 I wish your the best of luck! 
 ```
 
