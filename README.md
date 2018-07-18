@@ -30,7 +30,7 @@ This is editor us need for write java code,running,debugging and compiling.
 
 ## Java Doc
 Project has folder <b>docs</b>. In the folder has java documentation about our codes.
-  
+For reading documentation open <b>docs</b> folder and <b>index.html</b> with browser.   
 ## Java training
 
 * Hello Java
