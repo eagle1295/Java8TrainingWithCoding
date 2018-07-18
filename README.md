@@ -36,3 +36,4 @@ For reading documentation open <b>docs</b> folder and open <b>index.html</b>.
 ## Java training
 
 * Hello Java
+* Primitive Data Types
