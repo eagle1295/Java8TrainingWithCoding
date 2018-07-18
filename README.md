@@ -11,6 +11,8 @@ I wish your the best of luck!
 * [Getting Started](#getting-started)
 * [Installing JDK](#installing-jdk) - (Java Development Kit)
 * [Installing InteliJ IDEA](#installing-intelij-idea)
+* [Java Doc](#java-doc)
+* [Java training](#java-training)
 
 ## Getting Started
 
@@ -25,4 +27,10 @@ You need download JDK for platform of you OS. Please read [INSTRUCTION](https://
 
 After installed JDK then you need download [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) and you need install of yourself local machine.
 This is editor us need for write java code,running,debugging and compiling. 
- 
+
+## Java Doc
+Project has folder <b>docs</b>. In the folder has java documentation about our codes.
+  
+## Java training
+
+* Hello Java
