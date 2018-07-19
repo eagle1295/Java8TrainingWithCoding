@@ -9,7 +9,7 @@ package uz.javaworld.samples.les2;
  *    <li>String is not primitive!.</li>
  * </ul>
  */
-public class PrimitiveDataTypes {
+public class Les2_01PrimitiveDataTypes {
 
     /**
      * 1.Print  Numeric data types with min, max value
@@ -63,7 +63,7 @@ public class PrimitiveDataTypes {
         System.out.println("|  float      |   java.lang.Float     |");
         System.out.println("|  boolean    |   java.lang.Boolean   |");
         System.out.println("|  char       |   java.lang.Character |");
-        System.out.println("|     -       |   java.lang.String |");
+        System.out.println("|     -       |   java.lang.String    |");
         System.out.println("--------------------------------------");
 
         String text="Hello my young java programmer";
