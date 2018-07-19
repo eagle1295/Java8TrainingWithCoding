@@ -3,17 +3,17 @@ package uz.javaworld.samples.les2;
 /**
  * Numbers operations
  *
- * add =       +
- * subtract =  -
- * multiple =  *
- * divide =    /
- * mod =       %
+ * add =       + <br>
+ * subtract =  - <br>
+ * multiple =  * <br>
+ * divide =    / <br>
+ * mod =       % <br>
  *
- * increment = ++
- * decrement = --
+ * increment = ++ <br>
+ * decrement = -- <br>
  *
- * add =       +=
- * subraction  -=
+ * add =       += <br>
+ * subraction  -= <br>
  *
  */
 public class PrimitiveDataTypes04 {
