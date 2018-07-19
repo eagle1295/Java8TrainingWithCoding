@@ -3,7 +3,7 @@ package uz.javaworld.samples.les2;
 /**
  * Check to max values data types
  */
-public class Les2_03MaxValuesDataType {
+public class PrimitiveDataTypes03 {
 
     /**
      * First start class with out changes.

@@ -12,7 +12,7 @@ I wish your the best of luck!
 * [Installing JDK](#installing-jdk) - (Java Development Kit)
 * [Installing IntelliJ IDEA](#installing-intellij-idea)
 * [Java Doc](#java-doc)
-* [Java training](#java-training)
+* [Java training lessons](#java-training-lessons)
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ This is editor us need for write java code,running,debugging and compiling.
 Project has folder <b>docs</b>. In the folder has java documentation about our codes.
 For reading documentation open <b>docs</b> folder and open <b>index.html</b>.   
 
-## Java training
+## Java training lessons
 
 * Hello Java
 * Primitive Data Types

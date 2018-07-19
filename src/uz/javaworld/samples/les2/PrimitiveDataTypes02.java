@@ -3,7 +3,7 @@ package uz.javaworld.samples.les2;
 /**
  * Declaration primitive data types and use example
  */
-public class Les2_02PrimitiveDatTypes {
+public class PrimitiveDataTypes02 {
 
     /**
      * Declaration primitive data types, set values and print to console their values.

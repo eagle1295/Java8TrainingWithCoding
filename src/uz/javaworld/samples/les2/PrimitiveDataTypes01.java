@@ -9,7 +9,7 @@ package uz.javaworld.samples.les2;
  *    <li>String is not primitive!.</li>
  * </ul>
  */
-public class Les2_01PrimitiveDataTypes {
+public class PrimitiveDataTypes01 {
 
     /**
      * 1.Print  Numeric data types with min, max value
