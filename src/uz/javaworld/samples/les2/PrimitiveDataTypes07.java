@@ -9,11 +9,11 @@ public class PrimitiveDataTypes07 {
     public static void main(String[] args){
 
         String str = "Hello";
-        System.out.print(str);
+        System.out.println(str);
 
         str+=" Java!";
-        System.out.print(str);
+        System.out.println(str);
 
-        System.out.print("Length of text"+str.length());
+        System.out.println("Length of text : "+str.length());
     }
 }
